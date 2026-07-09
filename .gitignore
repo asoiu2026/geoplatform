@@ -1,0 +1,13 @@
+.venv/
+.idea/
+downloads/
+models/
+__pycache__/
+pack.py
+project_context.txt
+*.pyc
+*.pyo
+*.sqlite
+*.db
+*.zip
+.env
